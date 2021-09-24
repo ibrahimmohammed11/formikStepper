@@ -1,0 +1,19 @@
+.formSt {
+  border: 3px solid #15bdee;
+  margin: 50px auto;
+  padding: 25px;
+  border-radius: 15px;
+  width: 70%;
+}
+.inptSt {
+  border: 2px solid #15bdee;
+  border-radius: 8px;
+}
+
+.inptSt:focus {
+  box-shadow: none;
+}
+label {
+  color: #384158;
+  font-weight: bold;
+}
