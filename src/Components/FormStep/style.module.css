@@ -1,5 +1,6 @@
 .formSt {
-  border: 3px solid #15bdee;
+  -webkit-box-shadow: 0 0 15px #15bdee;
+  box-shadow: 0 0 15px #15bdee;
   margin: 50px auto;
   padding: 25px;
   border-radius: 15px;
